@@ -147,14 +147,16 @@ namespace FINALS_PROJECT_2E.UI
             hideSubmenu();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void EXIT_BUTTON_Click(object sender, EventArgs e)
         {
-            label4.Text = "BETCH";
+            this.Close();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void label13_Click(object sender, EventArgs e)
         {
-            label5.Text = "BETCH";
+
         }
+
+      
     }
 }
