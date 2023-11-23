@@ -146,5 +146,10 @@ namespace FINALS_PROJECT_2E.UI
             //
             hideSubmenu();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label4.Text = "BETCH";
+        }
     }
 }
