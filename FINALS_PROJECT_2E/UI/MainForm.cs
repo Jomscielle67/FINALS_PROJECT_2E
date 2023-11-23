@@ -151,5 +151,10 @@ namespace FINALS_PROJECT_2E.UI
         {
             label4.Text = "BETCH";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label5.Text = "BETCH";
+        }
     }
 }
